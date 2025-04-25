@@ -1,0 +1,9 @@
+C:\Users\khayd\OneDrive\Desktop\PROG6221\SnapClapped\SnapClapped\obj\Debug\net8.0\SnapClapped.csproj.AssemblyReference.cache
+C:\Users\khayd\OneDrive\Desktop\PROG6221\SnapClapped\SnapClapped\obj\Debug\net8.0\SnapClapped.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khayd\OneDrive\Desktop\PROG6221\SnapClapped\SnapClapped\obj\Debug\net8.0\SnapClapped.AssemblyInfoInputs.cache
+C:\Users\khayd\OneDrive\Desktop\PROG6221\SnapClapped\SnapClapped\obj\Debug\net8.0\SnapClapped.AssemblyInfo.cs
+C:\Users\khayd\OneDrive\Desktop\PROG6221\SnapClapped\SnapClapped\obj\Debug\net8.0\SnapClapped.csproj.CoreCompileInputs.cache
+C:\Users\khayd\OneDrive\Desktop\PROG6221\SnapClapped\SnapClapped\obj\Debug\net8.0\SnapClapped.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khayd\OneDrive\Desktop\PROG6221\SnapClapped\SnapClapped\obj\Debug\net8.0\SnapClapped.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khayd\OneDrive\Desktop\PROG6221\SnapClapped\SnapClapped\obj\Debug\net8.0\SnapClapped.RazorAssemblyInfo.cache
+C:\Users\khayd\OneDrive\Desktop\PROG6221\SnapClapped\SnapClapped\obj\Debug\net8.0\SnapClapped.RazorAssemblyInfo.cs
